@@ -7,6 +7,8 @@
 
 - [![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://arcade.makecode.com/) | [MakeCode Arcade(https://arcade.makecode.com/)
 
+- [Microsoft MakeCode Arcade](https://arcade.makecode.com/)
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
