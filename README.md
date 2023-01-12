@@ -13,7 +13,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/abdrauf26/makecode_arcade_mathematics** and import
 
-## Edit this project ![Build status badge](https://github.com/abdrauf26/makecode_arcade_mathematics/workflows/MakeCode/badge.svg)
+## Edit this project 
 
 To edit this repository in MakeCode.
 
